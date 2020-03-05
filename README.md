@@ -5,7 +5,7 @@ Vigilante.pw aims to raise awareness regarding database breaches by providing as
 This GitHub repository acts as a back-up of Vigilante.pw. 
 
 The "data.csv" file contains the list of databases loaded on to Vigilante.pw, with the following fields:
-* # Entries
+* Entries
 * Database Name
 * Detected Hashing Algorithm
 * Category
