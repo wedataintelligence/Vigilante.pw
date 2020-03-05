@@ -11,3 +11,5 @@ The "data.csv" file contains the list of databases loaded on to Vigilante.pw, wi
 * Category
 * Dump Date
 * Link to Breach Acknowledgment
+
+By viewing the history of the "data.csv" file, the user is able to see when databases were added to Vigilante.pw since the creation of this repository.
