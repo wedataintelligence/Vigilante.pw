@@ -2,7 +2,7 @@
 
 Vigilante.pw aims to raise awareness regarding database breaches by providing as much necessary information as possible regarding security breaches. We aim to inform and teach people about the importance of maintaining your privacy on the internet, as well as keeping your own personal information safe. 
 
-This GitHub repository acts as a back-up of Vigilante.pw. 
+This GitHub repository acts as a backup of Vigilante.pw in case of any downtime. 
 
 The "data.csv" file contains the list of databases loaded on to Vigilante.pw, with the following fields:
 * Entries
